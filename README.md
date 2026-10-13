@@ -129,13 +129,13 @@ A solenoid lock keeps its bolt extended (**locked**) when it has no power, and p
 C++ (Arduino framework), SPI and I2C communication, relay switching
 
 ## 📸 Demo
-[Project ki photo / video yahan lagao]
+ 
 
 ![RFID Lock](rfid-lock.jpg)
 
 ## 🧠 Challenges & Learnings
-- [Ek real challenge jo tumhe aaya aur kaise solve kiya]
-- [Ek cheez jo is project se seekhi]
+- [Challenge: Ensuring the door unlocks only for authorized RFID cards and remains secure for unknown cards.]
+- [Learned: Learned how to read RFID cards and control a servo motor for an automated door-lock system.]
 
    ## 👤 Author
    Abhaypratap Sikarwar
