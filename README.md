@@ -139,4 +139,4 @@ C++ (Arduino framework), SPI and I2C communication, relay switching
 
    ## 👤 Author
    Abhaypratap Sikarwar
-   [LinkedIn](https://www.linkedin.com/in/abhay-sikarwar-a5b9792b1/) | [Portfolio](https://abhaysikarwar.netlify.app) | [Portfolio 2](https://abhaysikarwar326.netlify.app)
+   [LinkedIn](https://www.linkedin.com/in/abhaypratap-sikarwar-a5b9792b1/) | [Portfolio](https://abhaysikarwar.netlify.app) | [Portfolio 2](https://abhaysikarwar326.netlify.app)
